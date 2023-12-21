@@ -1,9 +1,6 @@
 # sistema-solar-threejs
 Criação de um sistema solar usando o threejs
 
-# sistema-solar-threejs
-Criação de um sistema solar usando o threejs
-
 ## Setup
 Baixe [Node.js](https://nodejs.org/).
 
